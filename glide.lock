@@ -1,0 +1,6 @@
+hash: 903d9f42a8af08c712c27454de2204bcecee5fdc03707cd62096a21b3e4808c4
+updated: 2017-07-24T15:32:57.347515413-07:00
+imports:
+- name: github.com/sdboyer/deptest
+  version: 3f4c3bea144e112a69bbe5d8d01c1b09a544253f
+testImports: []
