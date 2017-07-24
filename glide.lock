@@ -1,5 +1,5 @@
-hash: 903d9f42a8af08c712c27454de2204bcecee5fdc03707cd62096a21b3e4808c4
-updated: 2017-07-24T15:32:57.347515413-07:00
+hash: db55b28e62f9ae6bb6ee79b2db973689f4effc6a5f05286ca1e1714ac2a773ca
+updated: 2017-07-24T15:34:41.147152292-07:00
 imports:
 - name: github.com/sdboyer/deptest
   version: 3f4c3bea144e112a69bbe5d8d01c1b09a544253f
